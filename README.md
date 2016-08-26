@@ -1,4 +1,4 @@
-## DeepPed: *Deep Convolutional Neural Networks for Pedestrian Detection*
+## DeepPed: *Deep Convolutional Neural Networks for Pedestrian Detection*!
 
 Created by Denis Tomè, Federico Monti, Luca Baroffio and Luca Bondi.
 
